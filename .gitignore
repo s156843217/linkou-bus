@@ -1,0 +1,7 @@
+# TDX 金鑰（本機抓資料用，絕不上傳）— 此 repo 不含抓取腳本，仍防呆列入
+tdx-secret.json
+
+# 編輯器 / 系統暫存
+.DS_Store
+Thumbs.db
+*~
